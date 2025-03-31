@@ -1,6 +1,6 @@
 
 
-Our dataset is scheduled to be released at the end of March, as we are working on enhancing the handling of some privacy issues. Initially, we only applied simple mosaics to the eyes, but now we will also mask the eye region and some surrounding personal items and brand logos, etc.
+Sorry. Our dataset release has been postponed to April, as we are working on enhancing the handling of some privacy issues. Initially, we only applied simple mosaics to the eyes, but now we will also mask the eye region and some surrounding personal items and brand logos, etc.
 
 
 
