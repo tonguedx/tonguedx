@@ -42,7 +42,7 @@ This dataset contains tongue image data with corresponding annotations. Each ima
 - In the test set, there are some Pulse annotations, but they have been abandoned and are no longer in use.
 - The Heart, Lung, Spleen, Liver, and Kidney annotations (0 indicating normal and 1 indicating abnormal) utilize a more extensive and complex set of attributes beyond the basic 8 tongue features.
 - The Gender and Age labels can also be utilized if needed.
-
+- You are welcome to utilize these extra annotations for your own research.
 
 ### Dataset Split ###
 For the specific dataset split, please refer to the reference materials. Alternatively, you can use your own custom data split instead of the five-folds.
@@ -54,6 +54,8 @@ To request access to the TongueDx Dataset, please fill out our [request form](ht
 ### Release Notes:
 This is our version 1.0 release. Due to time constraints, images with later sequence IDs have been directly cropped to remove surrounding backgrounds. We are currently processing these images, and we are also extending the paper and the dataset. Detailed updates to the version 1.0 dataset and GitHub repository will continue over the coming months. Thank you for your understanding.
 
+## Usage Restrictions
+The dataset and its annotations are intended for academic research purposes only and must not be used for commercial purposes. If the dataset is used to train medical models or large language models (LLMs), the output must include a warning prompt stating that the results are generated based on experimental data and should not be used for actual medical diagnosis without further validation. Additionally, these models must be used under human supervision to ensure safety and accuracy.
 
 ## Citation
 
