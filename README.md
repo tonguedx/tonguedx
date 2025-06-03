@@ -51,7 +51,7 @@ For the specific dataset split, please refer to the reference materials. Alterna
 ### Download Access:
 To request access to the TongueDx Dataset, please fill out our [request form](https://forms.gle/GJfuYKZwjYTRUdJH6).
 **Important Notes:**  
-🔹 **Recommended Email**: Advice use **Gmail**​​ for submission (other emails may trigger spam filters). <br>
+🔹 **Recommended Email**: Advice use **Gmail**​​ for submission (other emails may find the reply in spam folders). <br>
 🔹 **Response Time**: If you haven't received access instructions within **one hour**, please send a follow-up email to us with subject "TongueDx Access Request - [Your Name]". We'll manually process your request and send the download link within **a week**. 
 
 ### Release Notes:
