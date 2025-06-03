@@ -50,6 +50,9 @@ For the specific dataset split, please refer to the reference materials. Alterna
 
 ### Download Access:
 To request access to the TongueDx Dataset, please fill out our [request form](https://forms.gle/GJfuYKZwjYTRUdJH6).
+**Important Notes:**  
+🔹 **Recommended Email**: Advice use **Gmail**​​ for submission (other emails may trigger spam filters). <br>
+🔹 **Response Time**: If you haven't received access instructions within **one hour**, please send a follow-up email to us with subject "TongueDx Access Request - [Your Name]". We'll manually process your request and send the download link within **a week**. 
 
 ### Release Notes:
 This is our version 1.0 release. Due to time constraints, images with later sequence IDs have been directly cropped to remove surrounding backgrounds. We are currently processing these images, and we are also extending the paper and the dataset. Detailed updates to the version 1.0 dataset and GitHub repository will continue over the coming months. Thank you for your understanding.
