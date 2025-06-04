@@ -43,6 +43,7 @@ This dataset contains tongue image data with corresponding annotations. Each ima
 - The Heart, Lung, Spleen, Liver, and Kidney annotations (0 indicating normal and 1 indicating abnormal) utilize a more extensive and complex set of attributes beyond the basic 8 tongue features.
 - The Gender and Age labels can also be utilized if needed.
 - You are welcome to utilize these extra annotations for your own research.
+- Opening the annotation CSV files directly in Excel may cause display errors. It is recommended to use VSCode or similar editors for better viewing.
 
 ### Dataset Split ###
 For the specific dataset split, please refer to the reference materials. Alternatively, you can use your own custom data split instead of the five-folds.
